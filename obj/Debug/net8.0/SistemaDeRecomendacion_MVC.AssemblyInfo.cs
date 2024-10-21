@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeRecomendacion_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f257614fd98979b1b7023f74c60106d058e2ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaDeRecomendacion_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeRecomendacion_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
